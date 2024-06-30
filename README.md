@@ -25,7 +25,7 @@ A simple web application that generates a silly story based on user input and ra
 
 ## Contributing
 
-If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/krishna-pm/Silly-Story-Generator).
+If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/krishna-pm/Silly-Story-Generator-).
 
 ## License
 
